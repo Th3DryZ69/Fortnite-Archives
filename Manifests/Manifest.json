@@ -373,16 +373,17 @@
         "++Fortnite+Release-33.30-CL-39768313-Android": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Android/I5S4XrW-YIm7m7P7LUCdHHlPGFTgfA.manifest"
     },
     "Ios" : {
-        "++Fortnite+Release-4.40-CL-4117537-IOS": "", 
-        "++Fortnite+Release-4.40-CL-4126470-IOS": "",
-        "++Fortnite+Release-4.4x-CL-4132537-IOS": "",
-        "++Fortnite+Release-6.10-CL-4477651-IOS": "",
-        "++Fortnite+Release-13.40-CL-14050091-IOS": ""
+        "++Fortnite+Release-4.40-CL-4117537-IOS": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/IOS/.manifest", 
+        "++Fortnite+Release-4.40-CL-4126470-IOS": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/IOS/.manifest",
+        "++Fortnite+Release-4.4x-CL-4132537-IOS": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/IOS/.manifest",
+        "++Fortnite+Release-6.10-CL-4477651-IOS": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/IOS/.manifest",
+        "++Fortnite+Release-13.40-CL-14050091-IOS": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/IOS/.manifest",
+        "++Fortnite+Release-33.30-CL-39883132-IOS": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/IOS/aHd85w4mcmMeQ-0toEKtdPYA2B4Jhg.manifest"
     },
     "UEFN" : {
         "Nothing For moment": ""
     },
     "Switch" : {
-        "Nothing For moment": ""
+        "++Fortnite+Release-33.30-CL-39768313-Switch": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Switch/Q8aTlYd8EJ9QSkPW1EiyiPTYHcUKVA.manifest"
     }
 }
