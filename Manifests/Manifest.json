@@ -288,7 +288,8 @@
         "++Fortnite+Release-33.11-CL-38773622-Windows (Chapter 6 Season 1)": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Windows/ffxgQGm-7r1B87BTbUmgZw7IMCSnIw.manifest",
         "++Fortnite+Release-33.20-CL-39082670-Windows (Chapter 6 Season 1)": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Windows/a_zQLEFyj3g3HQHZ5kWOeY2HEhLvsA.manifest",
         "++Fortnite+Release-33.20-CL-39277041-Windows (Chapter 6 Season 1)": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Windows/AjgRht6iZypj1uxdxki9POYMGGpNDw.manifest",
-        "++Fortnite+Release-33.30-CL-39435251-Windows (Chapter 6 Season 1)": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Windows/GsVhZb61NeMQ6l3TLUqTVaf59hCF_w.manifest"
+        "++Fortnite+Release-33.30-CL-39435251-Windows (Chapter 6 Season 1)": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Windows/GsVhZb61NeMQ6l3TLUqTVaf59hCF_w.manifest",
+        "++Fortnite+Release-33.30-CL-39768313-Windows (Chapter 6 Season 1)": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Windows/BXWwUKtXpzcdpvSktkKYJxz9lWHpTQ.manifest"
     },
     "Mac" : {
         "Nothing For moment": ""
@@ -368,7 +369,8 @@
         "++Fortnite+Release-14.20-CL-14365286-Android": "",
         "++Fortnite+Release-14.20-CL-14382452-Android": "",
         "++Fortnite+Release-14.30-CL-14472258-Android": "",
-        "++Fortnite+Release-14.40-CL-14512296-Android": ""
+        "++Fortnite+Release-14.40-CL-14512296-Android": "",
+        "++Fortnite+Release-33.30-CL-39768313-Android": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Android/I5S4XrW-YIm7m7P7LUCdHHlPGFTgfA.manifest"
     },
     "Ios" : {
         "++Fortnite+Release-4.40-CL-4117537-IOS": "", 
