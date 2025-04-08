@@ -295,7 +295,8 @@
         "++Fortnite+Release-34.00-CL-40398515-Windows (Chapter 6 Season 2)": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Windows/YZCuyM2xK-8U2ykR8Ee4Cjxm62JTlw.manifest",
         "++Fortnite+Release-34.00-CL-40446427-Windows (Chapter 6 Season 2)": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Windows/KuIRbs25cfwbGV5f6kmpnywCixa7hQ.manifest",
         "++Fortnite+Release-34.10-CL-40567068-Windows (Chapter 6 Season 2)": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Windows/u9hZvYkwEtIEx4g6REyZ7RHdD1FaXg.manifest",
-        "++Fortnite+Release-34.20-CL-40965447-Windows (Chapter 6 Season 2)": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Windows/NB8boJhLGiMok8_Iuk-lMltnKHECMA.manifest"
+        "++Fortnite+Release-34.20-CL-40965447-Windows (Chapter 6 Season 2)": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Windows/NB8boJhLGiMok8_Iuk-lMltnKHECMA.manifest",
+        "++Fortnite+Release-34.21-CL-41092960-Windows (Chapter 6 Season 2)": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Windows/lnau7Sh8Iw8UMkaxZUaM4YLnJd_Qgw.manifest"
     },
     "Mac" : {
         "Nothing For moment": ""
@@ -381,7 +382,8 @@
         "++Fortnite+Release-34.00-CL-40446427-Android": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Android/9wZ7rlY9OPkHeTyyUEi8b-dR7xC5Tw.manifest",
         "++Fortnite+Release-34.10-CL-40543741-Android": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Android/BO_ke26VuHTFYV4ZvEydScwGqyoEkA.manifest",
         "++Fortnite+Release-34.10-CL-40705396-Android": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Android/euIhOgDUCYjWojQqMEaEyosCSVumwQ.manifest",
-        "++Fortnite+Release-34.20-CL-40965447-Android": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Android/Z7cCXAHRVUbsrKmINkqUvffejf9jpg.manifest"
+        "++Fortnite+Release-34.20-CL-40965447-Android": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Android/Z7cCXAHRVUbsrKmINkqUvffejf9jpg.manifest",
+        "++Fortnite+Release-34.21-CL-41092960-Android": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/Android/PYciAB0Djjui59FHT0qeLPp63SSiKA.manifest"
     },
     "Ios" : {
         "++Fortnite+Release-4.40-CL-4117537-IOS": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/IOS/.manifest", 
@@ -394,7 +396,8 @@
         "++Fortnite+Release-34.00-CL-40446427-IOS": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/IOS/OViFj2AaLyfo4MF3A0qC1M3c37jqSw.manifest",
         "++Fortnite+Release-34.10-CL-40567068-IOS": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/IOS/RSOu9Hkd6E6OMEScxUGaMtoOibti4A.manifest",
         "++Fortnite+Release-34.10-CL-40705396-IOS": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/IOS/adUkUUB8MH27s90is0mJrwvJBtxl6A.manifest",
-        "++Fortnite+Release-34.20-CL-40965447-IOS": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/IOS/LCtJmF5foAzMYwDO10-9gkmk7Lq0tg.manifest"
+        "++Fortnite+Release-34.20-CL-40965447-IOS": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/IOS/LCtJmF5foAzMYwDO10-9gkmk7Lq0tg.manifest",
+        "++Fortnite+Release-34.21-CL-41092960-IOS": "https://raw.githubusercontent.com/Th3DryZ69/Fortnite-Archives/refs/heads/main/Manifests/IOS/X__uqbBinxBX6OzSfUaYkI--q8WcTg.manifest"
     },
     "UEFN" : {
         "Nothing For moment": ""
