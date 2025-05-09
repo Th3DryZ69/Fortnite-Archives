@@ -1,4 +1,4 @@
-CHAPTER 1 SEASON 1
+CHAPTER 1 SEASON 1 "Launch Season" [October 25, 2017]
 ++Fortnite+Release-Cert-CL-3541083-Windows (Chapter 1 Season 1)
 ++Fortnite+Release-Cert-CL-3681159-Windows (Chapter 1 Season 1)
 ++Fortnite+Release-Cert-CL-3700114-Windows (Chapter 1 Season 1)
@@ -9,20 +9,20 @@ CHAPTER 1 SEASON 1
 ++Fortnite+Release-Cert-CL-3790078-Windows (Chapter 1 Season 1)
 ++Fortnite+Release-Cert-CL-3807424-Windows (Chapter 1 Season 1)
 
-CHAPTER 1 SEASON 2
+CHAPTER 1 SEASON 2 "Medieval" [December 14, 2017]
 ++Fortnite+Release-Cert-CL-3825894-Windows (Chapter 1 Season 2)
 ++Fortnite+Release-2.20-CL-3841827-Windows (Chapter 1 Season 2)
-++Fortnite+Release-2.30-CL-3847564-Windows (Chapter 1 Season 2) ZrI2-mGi5f095bc735dd412085dd6e71f5f1072f
+++Fortnite+Release-2.30-CL-3847564-Windows (Chapter 1 Season 2)
 ++Fortnite+Release-2.32-CL-3856999-Windows (Chapter 1 Season 2)
 ++Fortnite+Release-2.40-CL-3858292-Windows (Chapter 1 Season 2)
 ++Fortnite+Release-2.42-CL-3870737-Windows (Chapter 1 Season 2)
 ++Fortnite+Release-2.4x-CL-3876086-Windows (Chapter 1 Season 2)
-++Fortnite+Release-2.50-CL-3889387-Windows (Chapter 1 Season 2) d3s1TwNa7211302816b14cb28244998484a8be93
+++Fortnite+Release-2.50-CL-3889387-Windows (Chapter 1 Season 2)
 
-CHAPTER 1 SEASON 3
-++Fortnite+Release-3.00-CL-3901517-Windows (Chapter 1 Season 3) k5ys7glx5bd3c57ec7b14db2bb69d44e16487a36
+CHAPTER 1 SEASON 3 "Meteor" [February 22, 2018]
+++Fortnite+Release-3.00-CL-3901517-Windows (Chapter 1 Season 3)
 ++Fortnite+Release-3.10-CL-3915963-Windows (Chapter 1 Season 3)
-++Fortnite+Release-3.10-CL-3917250-Windows (Chapter 1 Season 3) qSfz1yvL2a694c0e864a4e2aadd0229121cde46c
+++Fortnite+Release-3.10-CL-3917250-Windows (Chapter 1 Season 3)
 ++Fortnite+Release-3.20-CL-3929794-Windows (Chapter 1 Season 3)
 ++Fortnite+Release-3.20-CL-3935073-Windows (Chapter 1 Season 3)
 ++Fortnite+Release-3.30-CL-3942182-Windows (Chapter 1 Season 3)
@@ -34,9 +34,9 @@ CHAPTER 1 SEASON 3
 ++Fortnite+Release-3.50-CL-4008490-Windows (Chapter 1 Season 3)
 ++Fortnite+Release-3.60-CL-4019403-Windows (Chapter 1 Season 3)
 
-CHAPTER 1 SEASON 4
-++Fortnite+Release-4.00-CL-4039451-Windows (Chapter 1 Season 4) REvHap8Be76174fe73914ba99a652ef722c0bd8c
-++Fortnite+Release-4.10-CL-4053532-Windows (Chapter 1 Season 4) LjhtJU7of2d3a380321f4257a791df5f165d1dea
+CHAPTER 1 SEASON 4 "Brace for Impact" [May 1, 2018]
+++Fortnite+Release-4.00-CL-4039451-Windows (Chapter 1 Season 4)
+++Fortnite+Release-4.10-CL-4053532-Windows (Chapter 1 Season 4)
 ++Fortnite+Release-4.20-CL-4072250-Windows (Chapter 1 Season 4)
 ++Fortnite+Release-4.30-CL-4095806-Windows (Chapter 1 Season 4)
 ++Fortnite+Release-4.30-CL-4103483-Windows (Chapter 1 Season 4)
@@ -46,7 +46,7 @@ CHAPTER 1 SEASON 4
 ++Fortnite+Release-4.50-CL-4159770-Windows (Chapter 1 Season 4)
 ++Fortnite+Release-4.50-CL-4166199-Windows (Chapter 1 Season 4)
 
-CHAPTER 1 SEASON 5
+CHAPTER 1 SEASON 5 "Worlds Collide" [July 12, 2018]
 ++Fortnite+Release-5.00-CL-4204761-Windows (Chapter 1 Season 5)
 ++Fortnite+Release-5.00-CL-4214610-Windows (Chapter 1 Season 5)
 ++Fortnite+Release-5.10-CL-4225813-Windows (Chapter 1 Season 5)
@@ -61,7 +61,7 @@ CHAPTER 1 SEASON 5
 ++Fortnite+Release-5.40-CL-4352937-Windows (Chapter 1 Season 5)
 ++Fortnite+Release-5.41-CL-4363240-Windows (Chapter 1 Season 5)
 
-CHAPTER 1 SEASON 6
+CHAPTER 1 SEASON 6 "Darkness Rises" [September 27, 2018]
 ++Fortnite+Release-6.00-CL-4395664-Windows (Chapter 1 Season 6)
 ++Fortnite+Release-6.00-CL-4402180-Windows (Chapter 1 Season 6)
 ++Fortnite+Release-6.01-CL-4417689-Windows (Chapter 1 Season 6)
@@ -81,22 +81,22 @@ CHAPTER 1 SEASON 6
 ++Fortnite+Release-6.30-CL-4579044-Windows (Chapter 1 Season 6)
 ++Fortnite+Release-6.31-CL-4573279-Windows (Chapter 1 Season 6)
 
-CHAPTER 1 SEASON 7
+CHAPTER 1 SEASON 7 "You Better Watch Out" [December 6, 2018]
 ++Fortnite+Release-7.00-CL-4629139-Windows (Chapter 1 Season 7)
 ++Fortnite+Release-7.01-CL-4648651-Windows (Chapter 1 Season 7)
 ++Fortnite+Release-7.10-CL-4667333-Windows (Chapter 1 Season 7)
 ++Fortnite+Release-7.20-CL-4716934-Windows (Chapter 1 Season 7)
 ++Fortnite+Release-7.20-CL-4727874-Windows (Chapter 1 Season 7)
 ++Fortnite+Release-7.30-CL-4821335-Windows (Chapter 1 Season 7)
-++Fortnite+Release-7.30-CL-4834550-Windows (Chapter 1 Season 7) 8MYIDmwwomgXz_O0TUy0IC5y0ZUD-g
+++Fortnite+Release-7.30-CL-4834550-Windows (Chapter 1 Season 7)
 ++Fortnite+Release-7.30-CL-4869070-Windows (Chapter 1 Season 7)
 ++Fortnite+Release-7.40-CL-4980899-Windows (Chapter 1 Season 7)
 ++Fortnite+Release-7.40-CL-4996168-Windows (Chapter 1 Season 7)
 ++Fortnite+Release-7.40-CL-5012948-Windows (Chapter 1 Season 7)
-++Fortnite+Release-7.40-CL-5046157-Windows (Chapter 1 Season 7) Q8ph88FxJtDqcyJmvUaG6fHzDtjJZA
+++Fortnite+Release-7.40-CL-5046157-Windows (Chapter 1 Season 7)
 
-CHAPTER 1 SEASON 8
-++Fortnite+Release-8.00-CL-5203069-Windows (Chapter 1 Season 8) NG07wjIyXZIU9qkeTUK1F4TqJ4bmTQ
+CHAPTER 1 SEASON 8 "X Marks the Spot" [February 28, 2019]
+++Fortnite+Release-8.00-CL-5203069-Windows (Chapter 1 Season 8)
 ++Fortnite+Release-8.00-CL-5251086-Windows (Chapter 1 Season 8)
 ++Fortnite+Release-8.00-CL-5274521-Windows (Chapter 1 Season 8)
 ++Fortnite+Release-8.01-CL-5285981-Windows (Chapter 1 Season 8)
@@ -105,64 +105,64 @@ CHAPTER 1 SEASON 8
 ++Fortnite+Release-8.11-CL-5442615-Windows (Chapter 1 Season 8)
 ++Fortnite+Release-8.11-CL-5484841-Windows (Chapter 1 Season 8)
 ++Fortnite+Release-8.20-CL-5547534-Windows (Chapter 1 Season 8)
-++Fortnite+Release-8.20-CL-5625478-Windows (Chapter 1 Season 8) x38m5mG7upd9og3yGE-ueFK_O6BIQw
-++Fortnite+Release-8.30-CL-5793395-Windows (Chapter 1 Season 8) AIwH4n9OxkItTP-mm0WaczfFJMvz3g
+++Fortnite+Release-8.20-CL-5625478-Windows (Chapter 1 Season 8)
+++Fortnite+Release-8.30-CL-5793395-Windows (Chapter 1 Season 8)
 ++Fortnite+Release-8.30-CL-5822617-Windows (Chapter 1 Season 8)
 ++Fortnite+Release-8.30-CL-5831510-Windows (Chapter 1 Season 8)
 ++Fortnite+Release-8.40-CL-5914491-Windows (Chapter 1 Season 8)
-++Fortnite+Release-8.40-CL-6005771-Windows (Chapter 1 Season 8) s0i1dCn0kmzuWgbk90G0_cs8MN2qiw
-++Fortnite+Release-8.50-CL-6058028-Windows (Chapter 1 Season 8) 7Om3eXVxOTO5r1vO-ES5AE-fKKwg1w
-++Fortnite+Release-8.51-CL-6165369-Windows (Chapter 1 Season 8) 21yEPkbqhNy_ePUECE6oTHEmg0SIfw
+++Fortnite+Release-8.40-CL-6005771-Windows (Chapter 1 Season 8)
+++Fortnite+Release-8.50-CL-6058028-Windows (Chapter 1 Season 8)
+++Fortnite+Release-8.51-CL-6165369-Windows (Chapter 1 Season 8)
 
-CHAPTER 1 SEASON 9
-++Fortnite+Release-9.00-CL-6337466-Windows (Chapter 1 Season 9) C3X86uPUO7rnPHrTG0S_sc8MXsPTFw
-++Fortnite+Release-9.01-CL-6428087-Windows (Chapter 1 Season 9) 4Sk9lFTsWh8D8G5bu0GAsFfJytlcMg
-++Fortnite+Release-9.10-CL-6573057-Windows (Chapter 1 Season 9) zPxI3f1ZAFSgFAMCZ0mjKySOC1AU5g
-++Fortnite+Release-9.10-CL-6616201-Windows (Chapter 1 Season 9) bUVzbMy3cXw_TZ_nOUudQYTzqU8B0w
-++Fortnite+Release-9.10-CL-6639283-Windows (Chapter 1 Season 9) EwnvZ_rcCnmmOGRl9k6I2cKbZKpZog
-++Fortnite+Release-9.20-CL-6822798-Windows (Chapter 1 Season 9) fomNLp5WNnJMCktOx0ehYYhXHjQ4PQ
-++Fortnite+Release-9.21-CL-6922310-Windows (Chapter 1 Season 9) RWD-a5em9GzeNI9OK0aCgRMoxsaOIw
-++Fortnite+Release-9.30-CL-7021684-Windows (Chapter 1 Season 9) Ny9N1fq0vOHr6Y6fhEyumZAfbiqCsA
-++Fortnite+Release-9.30-CL-7095426-Windows (Chapter 1 Season 9) HrjjiaI8qjk0eZ76_Ey2bOwsoKgynw
-++Fortnite+Release-9.40-CL-7315705-Windows (Chapter 1 Season 9) BJqXmVW32yHN2EDJlkiwUn0CyZDm1g
-++Fortnite+Release-9.41-CL-7463579-Windows (Chapter 1 Season 9) nVbZgzQG9HpntwQMmEm5ic1NLV_EeQ
-++Fortnite+Release-9.41-CL-7609292-Windows (Chapter 1 Season 9) XA1rr1l_FpmcNdkr7kG1CXRUNcX8lg
+CHAPTER 1 SEASON 9 "The Future is Yours" [May 9, 2019]
+++Fortnite+Release-9.00-CL-6337466-Windows (Chapter 1 Season 9)
+++Fortnite+Release-9.01-CL-6428087-Windows (Chapter 1 Season 9)
+++Fortnite+Release-9.10-CL-6573057-Windows (Chapter 1 Season 9)
+++Fortnite+Release-9.10-CL-6616201-Windows (Chapter 1 Season 9)
+++Fortnite+Release-9.10-CL-6639283-Windows (Chapter 1 Season 9)
+++Fortnite+Release-9.20-CL-6822798-Windows (Chapter 1 Season 9)
+++Fortnite+Release-9.21-CL-6922310-Windows (Chapter 1 Season 9)
+++Fortnite+Release-9.30-CL-7021684-Windows (Chapter 1 Season 9)
+++Fortnite+Release-9.30-CL-7095426-Windows (Chapter 1 Season 9)
+++Fortnite+Release-9.40-CL-7315705-Windows (Chapter 1 Season 9)
+++Fortnite+Release-9.41-CL-7463579-Windows (Chapter 1 Season 9)
+++Fortnite+Release-9.41-CL-7609292-Windows (Chapter 1 Season 9)
 
-CHAPTER 1 SEASON 10
-++Fortnite+Release-10.00-CL-7658179-Windows (Chapter 1 Season 10) wcfjh9c-okLtEOiDMkG8VzIC1p-ENg
-++Fortnite+Release-10.00-CL-7704164-Windows (Chapter 1 Season 10) 7C0cEaVSyWc6Fge6RE2N7IqJ4oPhww
-++Fortnite+Release-10.10-CL-7955722-Windows (Chapter 1 Season 10) QpjVgBdS5NubVduhREqDPr8piZTw-w
-++Fortnite+Release-10.20-CL-8243923-Windows (Chapter 1 Season 10) _bbar1M1lP4jGq8rh0-aNNBuLtiykQ
-++Fortnite+Release-10.20-CL-8360257-Windows (Chapter 1 Season 10) VMzZoB9Jq0hTA6qusEm04UnAh6UKBA
-++Fortnite+Release-10.20-CL-8456527-Windows (Chapter 1 Season 10) tzAOZKgKw-0aMGrTR0quWeW2a6OYmA
-++Fortnite+Release-10.30-CL-8569414-Windows (Chapter 1 Season 10) 9ZamWPoRkp27pBkCmEW67-k3ekT4ZQ
-++Fortnite+Release-10.31-CL-8723043-Windows (Chapter 1 Season 10) DN-rIV_Kr52qz46BIkWDz1yk1fvR3A
-++Fortnite+Release-10.40-CL-8970213-Windows (Chapter 1 Season 10) V4MspBnLrkKqBr8NAU2NeORA1Vj0bA
-++Fortnite+Release-10.40-CL-9302865-Windows (Chapter 1 Season 10) wOtgyHQea154yQ0EfUqZDhS6yTqsig
-++Fortnite+Release-10.40-CL-9380822-Windows (Chapter 1 Season 10) 8B9_KlR_rT7EAYpOQ0-Z_6gvsOS2yQ
+CHAPTER 1 SEASON 10 "Out of Time" [August 1, 2019]
+++Fortnite+Release-10.00-CL-7658179-Windows (Chapter 1 Season 10)
+++Fortnite+Release-10.00-CL-7704164-Windows (Chapter 1 Season 10)
+++Fortnite+Release-10.10-CL-7955722-Windows (Chapter 1 Season 10)
+++Fortnite+Release-10.20-CL-8243923-Windows (Chapter 1 Season 10)
+++Fortnite+Release-10.20-CL-8360257-Windows (Chapter 1 Season 10)
+++Fortnite+Release-10.20-CL-8456527-Windows (Chapter 1 Season 10)
+++Fortnite+Release-10.30-CL-8569414-Windows (Chapter 1 Season 10)
+++Fortnite+Release-10.31-CL-8723043-Windows (Chapter 1 Season 10)
+++Fortnite+Release-10.40-CL-8970213-Windows (Chapter 1 Season 10)
+++Fortnite+Release-10.40-CL-9302865-Windows (Chapter 1 Season 10)
+++Fortnite+Release-10.40-CL-9380822-Windows (Chapter 1 Season 10)
 
-CHAPTER 2 SEASON 1
-++Fortnite+Release-11.00-CL-9562734-Windows (Chapter 2 Season 1) 5-0v4B3kpK4XpRczak2Pc7dtlqah1A
-++Fortnite+Release-11.00-CL-9603448-Windows (Chapter 2 Season 1) sMeK9k1aLob5LB-hoUKKLmUfxwC-1Q
-++Fortnite+Release-11.01-CL-9728272-Windows (Chapter 2 Season 1) QZRwNP2PFJA8ZRaJf0CvTdp_lifayg
-++Fortnite+Release-11.10-CL-9844520-Windows (Chapter 2 Season 1) 4Qd63MleE2D9iPwREU2lELyJc--PFA
-++Fortnite+Release-11.10-CL-9901083-Windows (Chapter 2 Season 1) 4uiD_B-WF9I5W4h1M0m11f7iQ8zu6g
-++Fortnite+Release-11.11-CL-10082788-Windows (Chapter 2 Season 1) iVPwyvOxVsK6klhS1UeSRfQfJbPGZA
-++Fortnite+Release-11.20-CL-10297577-Windows (Chapter 2 Season 1) nx1sa8DEmaw-9_I8YEiMZ50FaDr0AQ
-++Fortnite+Release-11.20-CL-10328358-Windows (Chapter 2 Season 1) WmJlwXvlu0LMLVGGqUmXPy93OQSFBw
-++Fortnite+Release-11.21-CL-10481509-Windows (Chapter 2 Season 1) fKa-ZiFTzVP69JIxIky1OfZ0KPZnMQ
-++Fortnite+Release-11.30-CL-10639804-Windows (Chapter 2 Season 1) b26Zho3UFXcmjFwIy0G8T4x3tbX1yA
-++Fortnite+Release-11.30-CL-10708866-Windows (Chapter 2 Season 1) DDQp02DHMVKums1CD0a5qa-GxxTxJg
-++Fortnite+Release-11.31-CL-10760473-Windows (Chapter 2 Season 1) Dp8ZQlhdJ9tyQRRMGkO3gpZgQMGZmw
-++Fortnite+Release-11.31-CL-10795579-Windows (Chapter 2 Season 1) M6XhmsGG8zV2O9EOkkqfKOfb9CBNeA
-++Fortnite+Release-11.31-CL-10800459-Windows (Chapter 2 Season 1) I9bgKLDRd2f-FvbbCkiyhu_u2eczYg
-++Fortnite+Release-11.40-CL-10951104-Windows (Chapter 2 Season 1) gWTicfkWyAH3_8fpQEixmSUn0qhcSA
-++Fortnite+Release-11.40-CL-11039906-Windows (Chapter 2 Season 1) jpzvVty5Z5mmS0h9y0O72YRP0hTjFA
-++Fortnite+Release-11.40-CL-11109625-Windows (Chapter 2 Season 1) MErWwWjI-gmQmpwUCE-smeOIJY_L-A
-++Fortnite+Release-11.50-CL-11204868-Windows (Chapter 2 Season 1) skWUaAJHBVlghBWDmku50A2BNtOJ1Q
-++Fortnite+Release-11.50-CL-11265652-Windows (Chapter 2 Season 1) o8omInZNucJoBbOSh0iU2JCJW5aV9w
+CHAPTER 2 SEASON 1 "New World" [October 15, 2019]
+++Fortnite+Release-11.00-CL-9562734-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.00-CL-9603448-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.01-CL-9728272-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.10-CL-9844520-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.10-CL-9901083-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.11-CL-10082788-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.20-CL-10297577-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.20-CL-10328358-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.21-CL-10481509-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.30-CL-10639804-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.30-CL-10708866-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.31-CL-10760473-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.31-CL-10795579-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.31-CL-10800459-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.40-CL-10951104-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.40-CL-11039906-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.40-CL-11109625-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.50-CL-11204868-Windows (Chapter 2 Season 1)
+++Fortnite+Release-11.50-CL-11265652-Windows (Chapter 2 Season 1)
 
-CHAPTER 2 SEASON 2
+CHAPTER 2 SEASON 2 "Top Secret" [February 20, 2020]
 ++Fortnite+Release-12.00-CL-11556442-Windows (Chapter 2 Season 2)
 ++Fortnite+Release-12.00-CL-11566760-Windows (Chapter 2 Season 2)
 ++Fortnite+Release-12.00-CL-11586896-Windows (Chapter 2 Season 2)
@@ -183,7 +183,7 @@ CHAPTER 2 SEASON 2
 ++Fortnite+Release-12.60-CL-13477524-Windows (Chapter 2 Season 2)
 ++Fortnite+Release-12.61-CL-13498980-Windows (Chapter 2 Season 2)
 
-CHAPTER 2 SEASON 3
+CHAPTER 2 SEASON 3 "Splashdown" [June 17, 2020]
 ++Fortnite+Release-13.00-CL-13649278-Windows (Chapter 2 Season 3)
 ++Fortnite+Release-13.00-CL-13696059-Windows (Chapter 2 Season 3)
 ++Fortnite+Release-13.00-CL-13715544-Windows (Chapter 2 Season 3)
@@ -193,7 +193,7 @@ CHAPTER 2 SEASON 3
 ++Fortnite+Release-13.40-CL-14036559-Windows (Chapter 2 Season 3)
 ++Fortnite+Release-13.40-CL-14113327-Windows (Chapter 2 Season 3)
 
-CHAPTER 2 SEASON 4
+CHAPTER 2 SEASON 4 "Nexus War" [August 27, 2020]
 ++Fortnite+Release-14.00-CL-14173417-Windows (Chapter 2 Season 4)
 ++Fortnite+Release-14.00-CL-14199892-Windows (Chapter 2 Season 4)
 ++Fortnite+Release-14.00-CL-14211474-Windows (Chapter 2 Season 4)
@@ -212,7 +212,7 @@ CHAPTER 2 SEASON 4
 ++Fortnite+Release-14.60-CL-14785135-Windows (Chapter 2 Season 4)
 ++Fortnite+Release-14.60-CL-14786821-Windows (Chapter 2 Season 4)
 
-CHAPTER 2 SEASON 5
+CHAPTER 2 SEASON 5 "Zero Point" [December 2, 2020]
 ++Fortnite+Release-15.00-CL-14826719-Windows (Chapter 2 Season 5)
 ++Fortnite+Release-15.00-CL-14835335-Windows (Chapter 2 Season 5)
 ++Fortnite+Release-15.10-CL-14904303-Windows (Chapter 2 Season 5)
@@ -231,7 +231,7 @@ CHAPTER 2 SEASON 5
 ++Fortnite+Release-15.50-CL-15526472-Windows (Chapter 2 Season 5)
 ++Fortnite+Release-15.50-CL-15570449-Windows (Chapter 2 Season 5)
 
-CHAPTER 2 SEASON 6
+CHAPTER 2 SEASON 6 "Primal" [March 16, 2021]
 ++Fortnite+Release-16.00-CL-15685441-Windows (Chapter 2 Season 6)
 ++Fortnite+Release-16.00-CL-15713390-Windows (Chapter 2 Season 6)
 ++Fortnite+Release-16.00-CL-15727376-Windows (Chapter 2 Season 6)
@@ -250,7 +250,7 @@ CHAPTER 2 SEASON 6
 ++Fortnite+Release-16.50-CL-16432754-Windows (Chapter 2 Season 6)
 ++Fortnite+Release-16.50-CL-16469788-Windows (Chapter 2 Season 6)
 
-CHAPTER 2 SEASON 7
+CHAPTER 2 SEASON 7 "Invasion" [June 8, 2021]
 ++Fortnite+Release-17.00-CL-16555138-Windows (Chapter 2 Season 7)
 ++Fortnite+Release-17.00-CL-16593740-Windows (Chapter 2 Season 7)
 ++Fortnite+Release-17.10-CL-16701187-Windows (Chapter 2 Season 7)
@@ -265,7 +265,7 @@ CHAPTER 2 SEASON 7
 ++Fortnite+Release-17.50-CL-17328477-Windows (Chapter 2 Season 7)
 ++Fortnite+Release-17.50-CL-17388565-Windows (Chapter 2 Season 7)
 
-CHAPTER 2 SEASON 8
+CHAPTER 2 SEASON 8 "Cubed" [September 13, 2021]
 ++Fortnite+Release-18.00-CL-17468642-Windows (Chapter 2 Season 8)
 ++Fortnite+Release-18.00-CL-17519952-Windows (Chapter 2 Season 8)
 ++Fortnite+Release-18.10-CL-17619277-Windows (Chapter 2 Season 8)
@@ -276,7 +276,7 @@ CHAPTER 2 SEASON 8
 ++Fortnite+Release-18.30-CL-17882303-Windows (Chapter 2 Season 8)
 ++Fortnite+Release-18.40-CL-18163738-Windows (Chapter 2 Season 8)
 
-CHAPTER 3 SEASON 1
+CHAPTER 3 SEASON 1 "Flipped" [December 5, 2021]
 ++Fortnite+Release-19.00-CL-18335626-Windows (Chapter 3 Season 1)
 ++Fortnite+Release-19.00-CL-18380290-Windows (Chapter 3 Season 1)
 ++Fortnite+Release-19.01-CL-18415863-Windows (Chapter 3 Season 1)
@@ -290,7 +290,7 @@ CHAPTER 3 SEASON 1
 ++Fortnite+Release-19.40-CL-19167615-Windows (Chapter 3 Season 1)
 ++Fortnite+Release-19.40-CL-19215531-Windows (Chapter 3 Season 1)
 
-CHAPTER 3 SEASON 2
+CHAPTER 3 SEASON 2 "Resistance" [March 20, 2022]
 ++Fortnite+Release-20.00-CL-19381079-Windows (Chapter 3 Season 2)
 ++Fortnite+Release-20.00-CL-19458861-Windows (Chapter 3 Season 2)
 ++Fortnite+Release-20.00-CL-19532288-Windows (Chapter 3 Season 2)
@@ -302,7 +302,7 @@ CHAPTER 3 SEASON 2
 ++Fortnite+Release-20.40-CL-20175294-Windows (Chapter 3 Season 2)
 ++Fortnite+Release-20.40-CL-20244966-Windows (Chapter 3 Season 2)
 
-CHAPTER 3 SEASON 3
+CHAPTER 3 SEASON 3 "Vibin’" [June 5, 2022]
 ++Fortnite+Release-21.00-CL-20463113-Windows (Chapter 3 Season 3)
 ++Fortnite+Release-21.00-CL-20548557-Windows (Chapter 3 Season 3)
 ++Fortnite+Release-21.10-CL-20696680-Windows (Chapter 3 Season 3)
@@ -319,7 +319,7 @@ CHAPTER 3 SEASON 3
 ++Fortnite+Release-21.50-CL-21657658-Windows (Chapter 3 Season 3)
 ++Fortnite+Release-21.51-CL-21735703-Windows (Chapter 3 Season 3)
 
-CHAPTER 3 SEASON 4
+CHAPTER 3 SEASON 4 "Paradise" [September 18, 2022]
 ++Fortnite+Release-22.00-CL-22026835-Windows (Chapter 3 Season 4)
 ++Fortnite+Release-22.00-CL-22072684-Windows (Chapter 3 Season 4)
 ++Fortnite+Release-22.00-CL-22107157-Windows (Chapter 3 Season 4)
@@ -331,7 +331,7 @@ CHAPTER 3 SEASON 4
 ++Fortnite+Release-22.30-CL-22803135-Windows (Chapter 3 Season 4)
 ++Fortnite+Release-22.40-CL-23070899-Windows (Chapter 3 Season 4)
 
-CHAPTER 4 SEASON 1
+CHAPTER 4 SEASON 1 "Reality Zero" [December 4, 2022]
 ++Fortnite+Release-23.00-CL-23344627-Windows (Chapter 4 Season 1)
 ++Fortnite+Release-23.10-CL-23443094-Windows (Chapter 4 Season 1)
 ++Fortnite+Release-23.10-CL-23572221-Windows (Chapter 4 Season 1)
@@ -343,7 +343,7 @@ CHAPTER 4 SEASON 1
 ++Fortnite+Release-23.50-CL-24376996-Windows (Chapter 4 Season 1)
 ++Fortnite+Release-23.50-CL-24441668-Windows (Chapter 4 Season 1)
 
-CHAPTER 4 SEASON 2
+CHAPTER 4 SEASON 2 "MEGA" [March 10, 2023]
 ++Fortnite+Release-24.00-CL-24554913-Windows (Chapter 4 Season 2)
 ++Fortnite+Release-24.01-CL-24672685-Windows (Chapter 4 Season 2)
 ++Fortnite+Release-24.01-CL-24757023-Windows (Chapter 4 Season 2)
@@ -359,7 +359,7 @@ CHAPTER 4 SEASON 2
 ++Fortnite+Release-24.40-CL-25521145-Windows (Chapter 4 Season 2)
 ++Fortnite+Release-24.40-CL-25595478-Windows (Chapter 4 Season 2)
 
-CHAPTER 4 SEASON 3
+CHAPTER 4 SEASON 3 "Wilds" [June 9, 2023]
 ++Fortnite+Release-25.00-CL-25784668-Windows (Chapter 4 Season 3)
 ++Fortnite+Release-25.00-CL-25909622-Windows (Chapter 4 Season 3)
 ++Fortnite+Release-25.10-CL-26000959-Windows (Chapter 4 Season 3)
@@ -368,7 +368,7 @@ CHAPTER 4 SEASON 3
 ++Fortnite+Release-25.20-CL-26629111-Windows (Chapter 4 Season 3)
 ++Fortnite+Release-25.30-CL-26867995-Windows (Chapter 4 Season 3)
 
-CHAPTER 4 SEASON 4
+CHAPTER 4 SEASON 4 "Last Resort" [August 25, 2023]
 ++Fortnite+Release-26.00-CL-27233190-Windows (Chapter 4 Season 4)
 ++Fortnite+Release-26.00-CL-27424790-Windows (Chapter 4 Season 4)
 ++Fortnite+Release-26.10-CL-27681420-Windows (Chapter 4 Season 4)
@@ -376,12 +376,12 @@ CHAPTER 4 SEASON 4
 ++Fortnite+Release-26.30-CL-28509302-Windows (Chapter 4 Season 4)
 ++Fortnite+Release-26.30-CL-28688692-Windows (Chapter 4 Season 4)
 
-CHAPTER 4 SEASON 5
-++Fortnite+Release-27.00-CL-29072304-Windows (Chapter 4 Season 5)
-++Fortnite+Release-27.10-CL-29552510-Windows (Chapter 4 Season 5)
-++Fortnite+Release-27.11-CL-29739262-Windows (Chapter 4 Season 5)
+CHAPTER 4 SEASON OG "Fortnite OG" [November 3, 2023]
+++Fortnite+Release-27.00-CL-29072304-Windows (Chapter 4 Season OG)
+++Fortnite+Release-27.10-CL-29552510-Windows (Chapter 4 Season OG)
+++Fortnite+Release-27.11-CL-29739262-Windows (Chapter 4 Season OG)
 
-CHAPTER 5 SEASON 1
+CHAPTER 5 SEASON 1 "Underground" [December 3, 2023]
 ++Fortnite+Release-28.00-CL-29915848-Windows (Chapter 5 Season 1)
 ++Fortnite+Release-28.01-CL-30106568-Windows (Chapter 5 Season 1)
 ++Fortnite+Release-28.01-CL-30313795-Windows (Chapter 5 Season 1)
@@ -391,7 +391,7 @@ CHAPTER 5 SEASON 1
 ++Fortnite+Release-28.20-CL-31286935-Windows (Chapter 5 Season 1)
 ++Fortnite+Release-28.30-CL-31511038-Windows (Chapter 5 Season 1)
 
-CHAPTER 5 SEASON 2
+CHAPTER 5 SEASON 2 "Myths & Mortals" [March 8, 2024]
 ++Fortnite+Release-29.00-CL-31978752-Windows (Chapter 5 Season 2)
 ++Fortnite+Release-29.00-CL-32116959-Windows (Chapter 5 Season 2)
 ++Fortnite+Release-29.01-CL-32291970-Windows (Chapter 5 Season 2)
@@ -403,7 +403,7 @@ CHAPTER 5 SEASON 2
 ++Fortnite+Release-29.40-CL-33502036-Windows (Chapter 5 Season 2)
 ++Fortnite+Release-29.40-CL-33629566-Windows (Chapter 5 Season 2)
 
-CHAPTER 5 SEASON 3
+CHAPTER 5 SEASON 3 "Wrecked" [May 24, 2024]
 ++Fortnite+Release-30.00-CL-33760522-Windows (Chapter 5 Season 3)
 ++Fortnite+Release-30.00-CL-33962396-Windows (Chapter 5 Season 3)
 ++Fortnite+Release-30.10-CL-34184790-Windows (Chapter 5 Season 3)
@@ -414,8 +414,47 @@ CHAPTER 5 SEASON 3
 ++Fortnite+Release-30.30-CL-34891016-Windows (Chapter 5 Season 3)
 ++Fortnite+Release-30.40-CL-35235494-Windows (Chapter 5 Season 3)
 
-CHAPTER 5 SEASON 4
+CHAPTER 5 SEASON 4 "Absolute Doom" [August 16, 2024]
 ++Fortnite+Release-31.00-CL-35447195-Windows (Chapter 5 Season 4)
 ++Fortnite+Release-31.10-CL-35815136-Windows (Chapter 5 Season 4)
 ++Fortnite+Release-31.20-CL-36253989-Windows (Chapter 5 Season 4)
 ++Fortnite+Release-31.20-CL-36348034-Windows (Chapter 5 Season 4)
+++Fortnite+Release-31.20-CL-36253989-Windows (Chapter 5 Season 4)
+++Fortnite+Release-31.20-CL-36348034-Windows (Chapter 5 Season 4)
+++Fortnite+Release-31.30-CL-36600465-Windows (Chapter 5 Season 4)
+++Fortnite+Release-31.40-CL-36874825-Windows (Chapter 5 Season 4)
+++Fortnite+Release-31.40-CL-37076506-Windows (Chapter 5 Season 4)
+++Fortnite+Release-31.41-CL-37324991-Windows (Chapter 5 Season 4)
+
+CHAPTER 2 REMIX [November 2, 2024]
+++Fortnite+Release-32.00-CL-37505882-Windows (Chapter 2 Remix)
+++Fortnite+Release-32.00-CL-37770125-Windows (Chapter 2 Remix)
+++Fortnite+Release-32.10-CL-37958378-Windows (Chapter 2 Remix)
+++Fortnite+Release-32.11-CL-38202817-Windows (Chapter 2 Remix)
+++Fortnite+Release-32.11-CL-38371047-Windows (Chapter 2 Remix)
+
+CHAPTER 6 SEASON 1 "鬼 HUNTERS" (Demon Hunters) [December 1, 2024]
+++Fortnite+Release-33.00-CL-38324112-Windows (Chapter 6 Season 1)
+++Fortnite+Release-33.00-CL-38504598-Windows (Chapter 6 Season 1)
+++Fortnite+Release-33.10-CL-38630093-Windows (Chapter 6 Season 1)
+++Fortnite+Release-33.11-CL-38773622-Windows (Chapter 6 Season 1)
+++Fortnite+Release-33.20-CL-39082670-Windows (Chapter 6 Season 1)
+++Fortnite+Release-33.20-CL-39277041-Windows (Chapter 6 Season 1)
+++Fortnite+Release-33.30-CL-39435251-Windows (Chapter 6 Season 1)
+++Fortnite+Release-33.30-CL-39768313-Windows (Chapter 6 Season 1)
+
+CHAPTER 6 SEASON 2 "LAWLESS!" [February 21, 2025]
+++Fortnite+Release-34.00-CL-40085084-Windows (Chapter 6 Season 2)
+++Fortnite+Release-34.00-CL-40228973-Windows (Chapter 6 Season 2)
+++Fortnite+Release-34.00-CL-40398515-Windows (Chapter 6 Season 2)
+++Fortnite+Release-34.00-CL-40446427-Windows (Chapter 6 Season 2)
+++Fortnite+Release-34.10-CL-40567068-Windows (Chapter 6 Season 2)
+++Fortnite+Release-34.20-CL-40965447-Windows (Chapter 6 Season 2)
+++Fortnite+Release-34.21-CL-41092960-Windows (Chapter 6 Season 2)
+++Fortnite+Release-34.30-CL-41387772-Windows (Chapter 6 Season 2)
+++Fortnite+Release-34.30-CL-41588354-Windows (Chapter 6 Season 2)
+++Fortnite+Release-34.40-CL-41753727-Windows (Chapter 6 Season 2)
+
+CHAPTER 6 SEASON 3 "Galactic Battle" [May 2, 2025]
+++Fortnite+Release-35.00-CL-41994699-Windows (Chapter 6 Season 3)
+++Fortnite+Release-35.00-CL-42223143-Windows (Chapter 6 Season 3)
