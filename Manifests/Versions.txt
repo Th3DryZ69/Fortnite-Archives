@@ -426,12 +426,12 @@ CHAPTER 5 SEASON 4 "Absolute Doom" [August 16, 2024]
 ++Fortnite+Release-31.40-CL-37076506-Windows (Chapter 5 Season 4)
 ++Fortnite+Release-31.41-CL-37324991-Windows (Chapter 5 Season 4)
 
-CHAPTER 2 REMIX [November 2, 2024]
-++Fortnite+Release-32.00-CL-37505882-Windows (Chapter 2 Remix)
-++Fortnite+Release-32.00-CL-37770125-Windows (Chapter 2 Remix)
-++Fortnite+Release-32.10-CL-37958378-Windows (Chapter 2 Remix)
-++Fortnite+Release-32.11-CL-38202817-Windows (Chapter 2 Remix)
-++Fortnite+Release-32.11-CL-38371047-Windows (Chapter 2 Remix)
+CHAPTER 2 SEASON 6 "REMIX" [November 2, 2024]
+++Fortnite+Release-32.00-CL-37505882-Windows (Chapter 2 Season 6)
+++Fortnite+Release-32.00-CL-37770125-Windows (Chapter 2 Season 6)
+++Fortnite+Release-32.10-CL-37958378-Windows (Chapter 2 Season 6)
+++Fortnite+Release-32.11-CL-38202817-Windows (Chapter 2 Season 6)
+++Fortnite+Release-32.11-CL-38371047-Windows (Chapter 2 Season 6)
 
 CHAPTER 6 SEASON 1 "鬼 HUNTERS" (Demon Hunters) [December 1, 2024]
 ++Fortnite+Release-33.00-CL-38324112-Windows (Chapter 6 Season 1)
@@ -455,6 +455,8 @@ CHAPTER 6 SEASON 2 "LAWLESS!" [February 21, 2025]
 ++Fortnite+Release-34.30-CL-41588354-Windows (Chapter 6 Season 2)
 ++Fortnite+Release-34.40-CL-41753727-Windows (Chapter 6 Season 2)
 
-CHAPTER 6 SEASON 3 "Galactic Battle" [May 2, 2025]
-++Fortnite+Release-35.00-CL-41994699-Windows (Chapter 6 Season 3)
-++Fortnite+Release-35.00-CL-42223143-Windows (Chapter 6 Season 3)
+CHAPTER 6 SEASON 3 "Rebirth" [May 2, 2025]
+++Fortnite+Release-35.00-CL-41994699-Windows (Chapter 6 Season 3) [May 2, 2025]
+++Fortnite+Release-35.00-CL-42223143-Windows (Chapter 6 Season 3) [May 9, 2025]
+++Fortnite+Release-35.10-CL-42476511-Windows (Chapter 6 Season 3) [May 16, 2025]
+++Fortnite+Release-35.10-CL-42696140-Windows (Chapter 6 Season 3) [May 18, 2025] 
