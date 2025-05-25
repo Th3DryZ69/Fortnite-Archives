@@ -393,6 +393,99 @@ WINDOWS
 ++Fortnite+Release-35.10-CL-42476511-Windows = 
 ++Fortnite+Release-35.10-CL-42696140-Windows = 
 
+UEFN
+++Fortnite+Release-24.01-CL-24757023-Windows = 8yRV4ZNoDC7ryQPnake3T6a2-RBQsA
+++Fortnite+Release-24.10-CL-24770548-Windows = -jL1FGx4QOnnOkwfOk6FZ42DvDyYBA
+++Fortnite+Release-24.10-CL-24903530-Windows = 2kT4c-u8xpYk0ieZlEybfja5F3JY9w
+++Fortnite+Release-24.20-CL-24939793-Windows = OZXvRQWwKrp6vWZOskyeF518mJWtoQ
+++Fortnite+Release-24.20-CL-25019967-Windows = TEEiMSFv_GGqom2gqESdN-vtsZFIcA
+++Fortnite+Release-24.20-CL-25058254-Windows = Ul-hDOfzipm0xrnhEEKHFF7QRxfCjA
+++Fortnite+Release-24.20-CL-25156858-Windows = 9INu2E84opQK92j8JESe3Hy1n27sIQ
+++Fortnite+Release-24.30-CL-25210886-Windows = _Su_Xl73GeLNv65HPke3XqHjNOYNwQ
+++Fortnite+Release-24.30-CL-25347382-Windows = 0YEV3ay7qHId_hHXPEeTFv3H6AKqgA
+++Fortnite+Release-24.40-CL-25420516-Windows = AeZqOe3bSdLv582jAEykqHIyohNKCg
+++Fortnite+Release-24.40-CL-25521145-Windows = _4RcTvmf1Z5F3tDweEK4LEQu5CT8NA
+++Fortnite+Release-24.40-CL-25595478-Windows = McNcWPt_YY41cx7EX0yOSSqQsqMWAg
+++Fortnite+Release-25.00-CL-25784668-Windows = YHYx9vtklQWyFSiAK0GIyTv05WQQyg
+++Fortnite+Release-25.00-CL-25909622-Windows = T2HaGFH47AhP15IusUiFuF2oO3Ke8g
+++Fortnite+Release-25.10-CL-26000959-Windows = XE4XjqQcxZHYcgptJ0mxZ3ASNw5GrQ
+++Fortnite+Release-25.11-CL-26171015-Windows = Ywl2whK4D1eQOPqSC0GROHdPUEUY2g
+++Fortnite+Release-25.20-CL-26474516-Windows = V60obPMWdvBZSzlrPUO5Fz-u-xUUiA
+++Fortnite+Release-25.20-CL-26629111-Windows = ktHDDzNhuJfva9pN-E2J9nqosPl5fg
+++Fortnite+Release-25.30-CL-26867995-Windows = 7z5turTUUbjpXV0eQ0a45TIKDHiwpA
+++Fortnite+Release-26.00-CL-27233190-Windows = arbto17M9Vy9LEG_20myF-XVemFMTw
+++Fortnite+Release-26.00-CL-27424790-Windows = pJoV_PANV8wCXiff10KwAPGtGDxaEg
+++Fortnite+Release-26.10-CL-27681420-Windows = Fn0Fq6u_I3L0mvL5fkejUyXBBpoLiw
+++Fortnite+Release-26.20-CL-28096793-Windows = MimyftLcfpq5WC03pkytt-AV-N0fng
+++Fortnite+Release-26.30-CL-28509302-Windows = GxUp01TJmtVFkiK_BU20bNAp8hH5Dw
+++Fortnite+Release-26.30-CL-28688692-Windows = PkA4B187w_g2tE9qW0ys2cews66zgg
+++Fortnite+Release-27.00-CL-29072304-Windows = hA132Mb5Wgsuc8M520iwVPERaXgCRw
+++Fortnite+Release-27.10-CL-29552510-Windows = fcJBTUID_HdahRRpW0CXZfIJJSjWvg
+++Fortnite+Release-27.11-CL-29739262-Windows = DzSX5M0UO1L-OL2OtEKG-h6FUIZSng
+++Fortnite+Release-28.00-CL-29915848-Windows = t3nnLZfaWiqZ548WGUOA08F30NJZ7w
+++Fortnite+Release-28.01-CL-30106568-Windows = fhkDPxDDr3S-n_zIIkCUxVcMhiIxFQ
+++Fortnite+Release-28.01-CL-30313795-Windows = ORBWjX_Y2Rlr7YG0WUKkuNUXQZ_GKA
+++Fortnite+Release-28.10-CL-30676362-Windows = OOZe4Ewgyj_xaaoJ6USRgJFyk4a8kw
+++Fortnite+Release-28.10-CL-30835064-Windows = orcNe04xILOcANM3B0eY0w7XhkArcg
+++Fortnite+Release-28.20-CL-31165234-Windows = b1YJKNOv6cngk9SWN0uZkRpwElR3Uw
+++Fortnite+Release-28.20-CL-31286935-Windows = _ROwbuE0Rk4ono5rLECub_1sMn0G2Q
+++Fortnite+Release-28.30-CL-31511038-Windows = _UlrJQvKPPHXYh8wPUCGrJgKDwur4w
+++Fortnite+Release-29.00-CL-31978752-Windows = LJG74XDrCtqzKr4NZkOZNupaJIMqqg
+++Fortnite+Release-29.00-CL-32116959-Windows = 7ysEgOVboF_BjRGgPkuxnfp09YtGMg
+++Fortnite+Release-29.01-CL-32291970-Windows = inGGHUer-VYW8t8wGku5TflInFWtGQ
+++Fortnite+Release-29.10-CL-32391220-Windows = 4U_wvvB6c1Yimggf0Uuxq5mAd4PW9Q
+++Fortnite+Release-29.10-CL-32567225-Windows = R3NgNhHeLVYWrR4y_UubotyvGHA6Vw
+++Fortnite+Release-29.20-CL-32716692-Windows = tJPG6L454m9V69BVb0mnQQeKVDN4ag
+++Fortnite+Release-29.30-CL-32982357-Windows = DY6kRKrYIy9eNvBqPkmyE2IQ8xkT5w
+++Fortnite+Release-29.40-CL-33291686-Windows = pVtXP14rpBQDDsWxv0G1bNg5_ZgGaA
+++Fortnite+Release-29.40-CL-33502036-Windows = 
+++Fortnite+Release-29.40-CL-33629566-Windows = FMVl2jD__Kxrnd_Ft0qhk5ys-hnnAA
+++Fortnite+Release-30.00-CL-33760522-Windows = ScjEmDPQqDYIs05lIUy_G--sZD-P8Q
+++Fortnite+Release-30.00-CL-33962396-Windows = _U1k-tfZ9_BZ0vWp6kyYsJaL5Ro0pQ
+++Fortnite+Release-30.10-CL-34261954-Windows = dgY0ftE1qTTRyAZGZkGopLYIjxpkKg
+++Fortnite+Release-30.10-CL-34399867-Windows = dnC0vdD9cWUExdbRR0iRH9JY7WbLdA
+++Fortnite+Release-30.20-CL-34554470-Windows = gdryNfh-pa63pky6YkSboEcaLUrgMg
+++Fortnite+Release-30.20-CL-34681661-Windows = ogD4h2ZSRBbvuWazXU67jHPnKMiS
+++Fortnite+Release-30.20-CL-34756525-Windows = ZEvtdUl61JdSuya-lEGYrOmndZzgQg
+++Fortnite+Release-30.30-CL-34891016-Windows = yb25qtwk3cTUCC79W02xtUruPe9Ryg
+++Fortnite+Release-30.40-CL-35235494-Windows = j1UfHQbUdhXjt5U1W0OG1SPInWbH-w
+++Fortnite+Release-31.00-CL-35447195-Windows = JtWELzSI7zmKkeD900KDdLg5_gu86g
+++Fortnite+Release-31.10-CL-35935822-Windows = UE9aUJ3az19ez4-TekGpBE-H8qMWMw
+++Fortnite+Release-31.20-CL-36253989-Windows = 1BMSV29dyNBLf0F-aEigDSD8OIerww
+++Fortnite+Release-31.20-CL-36348034-Windows = jx1NY6AcrWbTTthiPEKN3DHQT5TnwA
+++Fortnite+Release-31.30-CL-36600465-Windows = _93EOkEjuflVLY6BpkyR0XmntG9zhA
+++Fortnite+Release-31.40-CL-36874825-Windows = sq-x7OWvOscw9YWzdE2heyYsJ0c9dg
+++Fortnite+Release-31.40-CL-37076506-Windows = WxESVamGXHYbeDEFvkOpsY-aJE3rrw
+++Fortnite+Release-31.41-CL-37324991-Windows = 6GEuDMzvdYgJSm-2ZUuk8huazoY13w
+++Fortnite+Release-32.00-CL-37505882-Windows = F1FCAcF3TIW3z2uS9kGgsSCrCOJKdA
+++Fortnite+Release-32.00-CL-37770125-Windows = 8Tg72X7AabQdbFZqREmo0wb9M7YbSw
+++Fortnite+Release-32.10-CL-37958378-Windows = 7Uq3DqDYKyavaNhc60uUt2RQTzabcg
+++Fortnite+Release-32.11-CL-38202817-Windows = OeXZgqXUIddzDikDYEmjY3RvxJd3vQ
+++Fortnite+Release-32.11-CL-38371047-Windows = uGYorDMWEGU_BdJ7lUCRkiowjgt4Dw
+++Fortnite+Release-33.00-CL-38324112-Windows = qKOhxS7mjEzLuKLf00yChDPJaEtEVQ
+++Fortnite+Release-33.00-CL-38504598-Windows = GacnmxcJ3TO-hNvGoUajAoGTOhWCjQ
+++Fortnite+Release-33.10-CL-38630093-Windows = -UAFGCfZx-U3BDXXV0Gwv6bGPr6RYg
+++Fortnite+Release-33.11-CL-38773622-Windows = oU3u0MowYOoqGxvqikKZRU4AlJzzXQ
+++Fortnite+Release-33.20-CL-39082670-Windows = MdNjfD-A40xShcSRTU6WT8nLRQRCmg
+++Fortnite+Release-33.20-CL-39277041-Windows = 2CxpM8TvmKC-fWn1XESQ_Ry-YduRUA
+++Fortnite+Release-33.30-CL-39435251-Windows = muRwAGfgvm6lCWlp80ql8VV_POvUEg
+++Fortnite+Release-33.30-CL-39768313-Windows = E31NZXlUy9tbqwupDkudURpR-3tRHA
+++Fortnite+Release-34.00-CL-40085084-Windows = Aznxag4o5LdJyp9fe0ONoNiLISMUkQ
+++Fortnite+Release-34.00-CL-40228973-Windows = OAKKbrmf8kt7ngNbekGzQjE6xlft2g
+++Fortnite+Release-34.00-CL-40398515-Windows = WqH1M7ien3BievIJwUeWwUQdmrDolA
+++Fortnite+Release-34.00-CL-40446427-Windows = 6e6UcpF8Q4ypkFIs0UWzhZGxVsuHFA
+++Fortnite+Release-34.10-CL-40567068-Windows = xgdnDDsGGPCx3_Pub0OG4_AOJCtt0Q
+++Fortnite+Release-34.20-CL-40965447-Windows = 1aGq9dE1Q5ihvnjuiESEfIPfmWefIg
+++Fortnite+Release-34.21-CL-41092960-Windows = -E0UW9-6c0mFo7Btj0iAoNONB3arUg
+++Fortnite+Release-34.30-CL-41387772-Windows = W3yskPkyQPHKAHTIZUGzgq74s2madQ
+++Fortnite+Release-34.30-CL-41588354-Windows = -O65fynpya896Si1tk-khAgjlxyXOg
+++Fortnite+Release-34.40-CL-41753727-Windows = 1uMfs8gHKH330k2VlkivdRb-SmAqBA
+++Fortnite+Release-35.00-CL-41994699-Windows = ZTvz0RfVVc4Dt3ZE7UuKh2BDYk4mCA
+++Fortnite+Release-35.00-CL-42223143-Windows = Ju4qq7lMs6HlmIDEdE2QJbWsM2voGg
+++Fortnite+Release-35.10-CL-42476511-Windows = gZgCpz5bmgoK1nOQ7UK0iAcICccrkA
+++Fortnite+Release-35.10-CL-42696140-Windows = 0zu9Nzai7OqPeOpG5kiYS2i2cmtjYg
+++Fortnite+Release-35.10-CL-42906078-Windows = KU5S3aluPTD9TOM9BkCqfEeX3ChDsQ
+
 ANDROID
 ++Fortnite+Release-34.00-CL-40047215-Android
 ++Fortnite+Release-34.00-CL-40213746-Android
@@ -476,3 +569,15 @@ IOS
 ++Fortnite+Release-35.00-CL-41975848-IOS = 4D6s8LAzAae_nQB1Qke5vscw6ZUh3w
 ++Fortnite+Release-35.00-CL-42225001-IOS = LgBXNE36dW97s3MAg0m0cMndOAGg6w
 ++Fortnite+Release-35.10-CL-42517454-IOS = iOOWOQN4xi5qN2chGkGYFDLHGSooQA
+
+MAC
+
+SWITCH
+
+XBOX ONE
+
+XBOX NEW GEN
+  
+PS4
+
+PS5
