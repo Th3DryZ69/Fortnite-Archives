@@ -1,4 +1,4 @@
-WINDOWS
+WINDOWS (https://fastly-download.epicgames.com/Builds/Fortnite/CloudDir/{idmanifest}.manifest)
 ++Fortnite+Release-Cert-CL-3541083-Windows = 
 ++Fortnite+Release-Cert-CL-3681159-Windows = 
 ++Fortnite+Release-Cert-CL-3700114-Windows = 
@@ -393,7 +393,7 @@ WINDOWS
 ++Fortnite+Release-35.10-CL-42476511-Windows = 
 ++Fortnite+Release-35.10-CL-42696140-Windows = 
 
-UEFN
+UEFN 
 ++Fortnite+Release-24.01-CL-24757023-Windows = 8yRV4ZNoDC7ryQPnake3T6a2-RBQsA
 ++Fortnite+Release-24.10-CL-24770548-Windows = -jL1FGx4QOnnOkwfOk6FZ42DvDyYBA
 ++Fortnite+Release-24.10-CL-24903530-Windows = 2kT4c-u8xpYk0ieZlEybfja5F3JY9w
@@ -486,7 +486,7 @@ UEFN
 ++Fortnite+Release-35.10-CL-42696140-Windows = 0zu9Nzai7OqPeOpG5kiYS2i2cmtjYg
 ++Fortnite+Release-35.10-CL-42906078-Windows = KU5S3aluPTD9TOM9BkCqfEeX3ChDsQ
 
-ANDROID
+ANDROID (https://cloudflare.epicgamescdn.com/Builds/Fortnite/Content/CloudDir/{idmanifest}.manifest)
 ++Fortnite+Release-5.20-CL-4260394-Android = UHf1g1K1K38djd9LzUKpmOdGdegw1w
 ++Fortnite+Release-5.20-CL-4268994-Android = M_9X5SPoMrTxIbGJIE22_FWTgEbZuQ
 ++Fortnite+Release-5.20-CL-4276112-Android = mHyFYkkG35yDO4z560-CvPbbjXtWiQ
@@ -819,7 +819,7 @@ ANDROID SHIPPING
 ++Fortnite+Release-35.10-CL-42471790-Shipping-Android = gOgarJRzEDmesVOackKcVbtVH6vuiQ
 ++Fortnite+Release-35.10-CL-42696141-Shipping-Android = d3KsZ6nFrbNacZ8uFUm7RaVZsnwwjQ
 
-IOS
+IOS (https://cloudflare.epicgamescdn.com/Builds/Fortnite/Content/CloudDir/{idmanifest}.manifest)
 ++Fortnite+Release-3.3-CL-3944819-IOS = /No Manifest/
 ++Fortnite+Release-3.4-CL-3968866-IOS = q9_bx1dK2231ee440b5645afbecb70a55df34d89
 ++Fortnite+Release-3.5-CL-3994867-IOS = LmoBtBsR7ba15c218bc6442493ca6d19f3d28855
@@ -886,13 +886,3 @@ IOS
 
 MAC
 ++Fortnite+Release-13.40-CL-14190742-Mac = fasLpViqfDZX_Ej2QEeeHyHYCqgKSw
-
-SWITCH
-
-XBOX ONE
-
-XBOX NEW GEN
-  
-PS4
-
-PS5
