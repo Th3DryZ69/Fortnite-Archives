@@ -392,6 +392,7 @@ WINDOWS (https://fastly-download.epicgames.com/Builds/Fortnite/CloudDir/{idmanif
 ++Fortnite+Release-35.00-CL-42223143-Windows = 
 ++Fortnite+Release-35.10-CL-42476511-Windows = 
 ++Fortnite+Release-35.10-CL-42696140-Windows = 
+++Fortnite+Release-35.20-CL-42911808-Windows = SDgFtofWXxFwiwcKoE6Kb-w0EOVNQg
 
 UEFN 
 ++Fortnite+Release-24.01-CL-24757023-Windows = 8yRV4ZNoDC7ryQPnake3T6a2-RBQsA
@@ -485,6 +486,7 @@ UEFN
 ++Fortnite+Release-35.10-CL-42476511-Windows = gZgCpz5bmgoK1nOQ7UK0iAcICccrkA
 ++Fortnite+Release-35.10-CL-42696140-Windows = 0zu9Nzai7OqPeOpG5kiYS2i2cmtjYg
 ++Fortnite+Release-35.10-CL-42906078-Windows = KU5S3aluPTD9TOM9BkCqfEeX3ChDsQ
+++Fortnite+Release-35.20-CL-42911808-Windows = 50bjlsxoa6KSeIsfOE-POxeNYd73Iw
 
 ANDROID (https://cloudflare.epicgamescdn.com/Builds/Fortnite/Content/CloudDir/{idmanifest}.manifest)
 ++Fortnite+Release-5.20-CL-4260394-Android = UHf1g1K1K38djd9LzUKpmOdGdegw1w
@@ -535,9 +537,6 @@ ANDROID (https://cloudflare.epicgamescdn.com/Builds/Fortnite/Content/CloudDir/{i
 ++Fortnite+Release-8.20-CL-5688020-Android = 
 ++Fortnite+Release-8.30-CL-5806807-Android = 
 ++Fortnite+Release-8.30-CL-5831510-Android = 
-
-
-
 ++Fortnite+Release-8.40-CL-5918056-Android = 
 ++Fortnite+Release-8.50-CL-6058028-Android = 
 ++Fortnite+Release-8.51-CL-6165369-Android = 
@@ -560,6 +559,7 @@ ANDROID (https://cloudflare.epicgamescdn.com/Builds/Fortnite/Content/CloudDir/{i
 ++Fortnite+Release-10.30-CL-8569414-Android = 
 ++Fortnite+Release-10.31-CL-8757496-Android = 
 ++Fortnite+Release-10.31-CL-8847835-Android = 
+++Fortnite+Release-10.40-CL-8936006-Android = 
 ++Fortnite+Release-10.40-CL-9009621-Android = 
 ++Fortnite+Release-10.40-CL-9302865-Android = 
 ++Fortnite+Release-11.00-CL-9564328-Android = 
@@ -568,6 +568,36 @@ ANDROID (https://cloudflare.epicgamescdn.com/Builds/Fortnite/Content/CloudDir/{i
 ++Fortnite+Release-11.10-CL-9844520-Android = 
 ++Fortnite+Release-11.10-CL-9888431-Android = 
 ++Fortnite+Release-11.11-CL-10079216-Android = 
+++Fortnite+Release-11.20-CL-10297934-Android = 
+++Fortnite+Release-11.21-CL-10481509-Android = 
+++Fortnite+Release-11.30-CL-10639804-Android = 
+++Fortnite+Release-11.31-CL-10800749-Android = 
+++Fortnite+Release-11.31-CL-10853343-Android = 
+++Fortnite+Release-11.40-CL-10948180-Android = 
+++Fortnite+Release-11.40-CL-10993225-Android = 
+++Fortnite+Release-11.40-CL-11112758-Android = 
+++Fortnite+Release-11.50-CL-11204868-Android = 
+++Fortnite+Release-11.50-CL-11265652-Android = 
+++Fortnite+Release-12.00-CL-11529743-Android = 
+++Fortnite+Release-12.00-CL-11573981-Android = 
+++Fortnite+Release-12.10-CL-11794982-Android = 
+++Fortnite+Release-12.20-CL-12170032-Android = 
+++Fortnite+Release-12.20-CL-12240764-Android = 
+++Fortnite+Release-12.21-CL-12337779-Android = 
+++Fortnite+Release-12.21-CL-12395074-Android = 
+++Fortnite+Release-12.30-CL-12486755-Android = 
+++Fortnite+Release-12.30-CL-12502623-Android = 
+++Fortnite+Release-12.30-CL-12624643-Android = 
+++Fortnite+Release-12.40-CL-12743641-Android = 
+++Fortnite+Release-12.40-CL-12837456-Android = 
+++Fortnite+Release-12.41-CL-12910313-Android = 
+++Fortnite+Release-12.50-CL-13044691-Android = 
+++Fortnite+Release-12.50-CL-13070927-Android = 
+++Fortnite+Release-12.50-CL-13179981-Android = 
+++Fortnite+Release-12.60-CL-13333624-Android = 
+++Fortnite+Release-12.61-CL-13498980-Android = 
+++Fortnite+Release-13.00-CL-13649278-Android = 
+++Fortnite+Release-13.00-CL-13715544-Android = 
 ++Fortnite+Release-13.20-CL-13777676-Android = 
 ++Fortnite+Release-13.30-CL-13884634-Android = 
 ++Fortnite+Release-13.40-CL-14009477-Android = 
@@ -580,11 +610,21 @@ ANDROID (https://cloudflare.epicgamescdn.com/Builds/Fortnite/Content/CloudDir/{i
 ++Fortnite+Release-14.20-CL-14382452-Android = 
 ++Fortnite+Release-14.30-CL-14472258-Android = 
 ++Fortnite+Release-14.40-CL-14512296-Android = 
+++Fortnite+Release-14.40-CL-14550713-Android = 
+++Fortnite+Release-14.50-CL-14612224-Android = 
+++Fortnite+Release-14.50-CL-14644191-Android = 
+++Fortnite+Release-14.60-CL-14749530-Android = 
+++Fortnite+Release-15.00-CL-14826719-Android = 
+++Fortnite+Release-15.00-CL-14835335-Android = 
+++Fortnite+Release-15.00-CL-14869341-Android = 
+++Fortnite+Release-15.00-CL-14884972-Android = 
 ++Fortnite+Release-15.10-CL-14922381-Android = x-ud0gJDAD80vhZESkiZuPS1CCpUeQ
+++Fortnite+Release-15.10-CL-14984251-Android = 
 ++Fortnite+Release-15.20-CL-15033494-Android = Eou0BCTOQ3mMf3svRUiZmhNb0r4Kjg
 ++Fortnite+Release-15.21-CL-15098852-Android = ZcEAQo2P3te20xxkVka8EtijjACzxQ
 ++Fortnite+Release-15.30-CL-15233634-Android = srz8ftNHwGFTxEUh1U2HP3NlOMK9aQ
 ++Fortnite+Release-15.30-CL-15306522-Android = CRPSAzZLro5UKrzlk0a3odflcGYGdg
+++Fortnite+Release-15.40-CL-15385160-Android = 
 ++Fortnite+Release-15.40-CL-15424013-Android = fDtC9A66CUy6PYt15kusvg7S39nmZA
 ++Fortnite+Release-15.40-CL-15466285-Android = C-uZZBQYgkvDdk6bPUSZXFVKzv9Xdg
 ++Fortnite+Release-15.50-CL-15526472-Android = g0lqtBbiy3T_dI5wHk-QV36RIIl1Ag
@@ -646,7 +686,104 @@ ANDROID (https://cloudflare.epicgamescdn.com/Builds/Fortnite/Content/CloudDir/{i
 ++Fortnite+Release-21.20-CL-20978394-Android = QcJ5tGPipkgLrVhw_0KcU1eTOXOSYQ
 ++Fortnite+Release-21.20-CL-21014428-Android = rUdXvihwa788o7EdBEWtS5nJ58YhXQ
 ++Fortnite+Release-21.30-CL-21088273-Android = uSY0dcxa1F3PGeD9PkOWJ7h1GeJCLg
-
+++Fortnite+Release-21.40-CL-21347928-Android = 
+++Fortnite+Release-21.40-CL-21431554-Android = 
+++Fortnite+Release-21.50-CL-21557619-Android = 
+++Fortnite+Release-21.51-CL-21785624-Android = 
+++Fortnite+Release-22.00-CL-22031344-Android = 
+++Fortnite+Release-22.00-CL-22107157-Android = 
+++Fortnite+Release-22.10-CL-22240570-Android = 
+++Fortnite+Release-22.20-CL-22545427-Android = 
+++Fortnite+Release-22.30-CL-22854046-Android = 
+++Fortnite+Release-22.30-CL-22886174-Android = 
+++Fortnite+Release-22.40-CL-23070899-Android = 
+++Fortnite+Release-23.00-CL-23281232-Android = 
+++Fortnite+Release-23.00-CL-23385779-Android = 
+++Fortnite+Release-23.10-CL-23443094-Android = 
+++Fortnite+Release-23.10-CL-23572221-Android = 
+++Fortnite+Release-23.20-CL-23659353-Android = 
+++Fortnite+Release-23.20-CL-23783097-Android = 
+++Fortnite+Release-23.30-CL-23901854-Android = 
+++Fortnite+Release-23.30-CL-23937783-Android = 
+++Fortnite+Release-23.30-CL-23986860-Android = 
+++Fortnite+Release-23.40-CL-24087481-Android = 
+++Fortnite+Release-23.40-CL-24230880-Android = 
+++Fortnite+Release-23.50-CL-24376996-Android = 
+++Fortnite+Release-24.00-CL-24518431-Android = 
+++Fortnite+Release-24.01-CL-24665656-Android = 
+++Fortnite+Release-24.10-CL-24770548-Android = 
+++Fortnite+Release-24.20-CL-24939793-Android = 
+++Fortnite+Release-24.30-CL-25280217-Android = 
+++Fortnite+Release-24.30-CL-25330280-Android = 
+++Fortnite+Release-24.40-CL-25469380-Android = 
+++Fortnite+Release-24.40-CL-25595478-Android = 
+++Fortnite+Release-25.00-CL-25695576-Android = 
+++Fortnite+Release-25.00-CL-25913641-Android = 
+++Fortnite+Release-25.10-CL-26000958-Android = 
+++Fortnite+Release-25.11-CL-26227037-Android = 
+++Fortnite+Release-25.20-CL-26474516-Android = 
+++Fortnite+Release-25.20-CL-26643816-Android = 
+++Fortnite+Release-25.30-CL-26867995-Android = 
+++Fortnite+Release-26.00-CL-27233190-Android = 
+++Fortnite+Release-26.00-CL-27405594-Android = 
+++Fortnite+Release-26.10-CL-27665530-Android = 
+++Fortnite+Release-26.20-CL-28096793-Android = 
+++Fortnite+Release-26.20-CL-28333111-Android = 
+++Fortnite+Release-26.30-CL-28520140-Android = 
+++Fortnite+Release-26.30-CL-28620401-Android = 
+++Fortnite+Release-26.30-CL-28688692-Android = 
+++Fortnite+Release-26.30-CL-28849396-Android = 
+++Fortnite+Release-26.30-CL-28938851-Android = 
+++Fortnite+Release-27.00-CL-29072303-Android = 
+++Fortnite+Release-27.10-CL-29703186-Android = 
+++Fortnite+Release-27.11-CL-29739262-Android = 
+++Fortnite+Release-28.00-CL-29915848-Android = 
+++Fortnite+Release-28.01-CL-30342671-Android = 
+++Fortnite+Release-28.10-CL-30676362-Android = 
+++Fortnite+Release-28.10-CL-30835064-Android = 
+++Fortnite+Release-28.20-CL-31165234-Android = 
+++Fortnite+Release-28.20-CL-31286935-Android = 
+++Fortnite+Release-28.30-CL-31511038-Android = 
+++Fortnite+Release-29.00-CL-31978752-Android = 
+++Fortnite+Release-29.00-CL-32116959-Android = 
+++Fortnite+Release-29.00-CL-32148000-Android = 
+++Fortnite+Release-29.01-CL-32236377-Android = 
+++Fortnite+Release-29.10-CL-32391220-Android = 
+++Fortnite+Release-29.10-CL-32567225-Android = 
+++Fortnite+Release-29.20-CL-32716692-Android = 
+++Fortnite+Release-29.30-CL-32982357-Android = 
+++Fortnite+Release-29.40-CL-33291686-Android = 
+++Fortnite+Release-29.40-CL-33502036-Android = 
+++Fortnite+Release-30.00-CL-33760522-Android = 
+++Fortnite+Release-30.00-CL-33962396-Android = 
+++Fortnite+Release-30.10-CL-34184790-Android = 
+++Fortnite+Release-30.10-CL-34261954-Android = 
+++Fortnite+Release-30.20-CL-34488544-Android = 
+++Fortnite+Release-30.20-CL-34597766-Android = 
+++Fortnite+Release-30.30-CL-34891016-Android = 
+++Fortnite+Release-30.40-CL-35235494-Android = 
+++Fortnite+Release-31.00-CL-35447195-Android = 
+++Fortnite+Release-31.10-CL-35815136-Android = 
+++Fortnite+Release-31.00-CL-35820075-Android = 
+++Fortnite+Release-31.20-CL-36217724-Android = 
+++Fortnite+Release-31.20-CL-36348035-Android = 
+++Fortnite+Release-31.30-CL-36600465-Android = 
+++Fortnite+Release-31.40-CL-36874825-Android = 
+++Fortnite+Release-31.40-CL-37076506-Android = 
+++Fortnite+Release-31.41-CL-37324991-Android = 
+++Fortnite+Release-32.00-CL-37505882-Android = 
+++Fortnite+Release-32.00-CL-37747778-Android = 
+++Fortnite+Release-32.10-CL-37958378-Android = 
+++Fortnite+Release-32.11-CL-38202817-Android = 
+++Fortnite+Release-32.11-CL-38371047-Android = 
+++Fortnite+Release-33.00-CL-38416954-Android = 
+++Fortnite+Release-33.00-CL-38504598-Android = 
+++Fortnite+Release-33.10-CL-38625182-Android = 
+++Fortnite+Release-33.10-CL-38683619-Android = 
+++Fortnite+Release-33.11-CL-38773622-Android = 
+++Fortnite+Release-33.20-CL-39082670-Android = 
+++Fortnite+Release-33.20-CL-39277041-Android = 
+++Fortnite+Release-33.30-CL-39471542-Android = 
 ++Fortnite+Release-33.30-CL-39768313-Android = I5S4XrW-YIm7m7P7LUCdHHlPGFTgfA
 ++Fortnite+Release-34.00-CL-40047215-Android = 3KrYXTNafyHP49rSEkqxcxmiEBtRdQ
 ++Fortnite+Release-34.00-CL-40213746-Android = EmpUiUW4Y_ZI-6ilFU-f8Ec-CrkNoA
@@ -663,6 +800,7 @@ ANDROID (https://cloudflare.epicgamescdn.com/Builds/Fortnite/Content/CloudDir/{i
 ++Fortnite+Release-35.00-CL-42225001-Android = 9TySmLnPixfMi84sD0Sph2KhkGJuIA
 ++Fortnite+Release-35.10-CL-42471790-Android = uJni-swzEMN5WuxmQECXrcomkIGQDA
 ++Fortnite+Release-35.10-CL-42696141-Android = XDHR1zxCrik90xXkb0K9s_lEYA2j5A
+++Fortnite+Release-35.20-CL-42911808-Android = k7qQ-cPw60q0Zr3QAUWkaa4ZnDvJCg
 
 ANDROID SHIPPING
 ++Fortnite+Release-10.40-CL-8936006-Shipping-Android = Wk2JNYbyEYzjgRo8EUm95jnwsLgKOA	
@@ -818,6 +956,7 @@ ANDROID SHIPPING
 ++Fortnite+Release-35.00-CL-42225001-Shipping-Android = poHKYNtgk8HGR7KZrUy0-sAq_74xtQ
 ++Fortnite+Release-35.10-CL-42471790-Shipping-Android = gOgarJRzEDmesVOackKcVbtVH6vuiQ
 ++Fortnite+Release-35.10-CL-42696141-Shipping-Android = d3KsZ6nFrbNacZ8uFUm7RaVZsnwwjQ
+++Fortnite+Release-35.20-CL-42911808-Shipping-Android = an1hGZJl68greFFRX0Ch3xNVsorHWg
 
 IOS (https://cloudflare.epicgamescdn.com/Builds/Fortnite/Content/CloudDir/{idmanifest}.manifest)
 ++Fortnite+Release-3.3-CL-3944819-IOS = /No Manifest/
@@ -835,7 +974,7 @@ IOS (https://cloudflare.epicgamescdn.com/Builds/Fortnite/Content/CloudDir/{idman
 ++Fortnite+Release-6.20-CL-4503517-IOS = OJ3XpOfeodCqUScMykmxriXWoQXRVg
 ++Fortnite+Release-7.20-CL-4727874-IOS = 76LbhghKxejuBRV-rEGyCFpZKtwTLw
 ++Fortnite+Release-7.40-CL-5011364-IOS = ZEwxxOqyzbYkj5MloUC2g6QY7uj-Qw
-++Fortnite+Release-10.0-CL-7655413-IOS = 4q3sBKs4QjvyOsVRFk2BgUvII8kRLw
+++Fortnite+Release-10.00-CL-7655413-IOS = 4q3sBKs4QjvyOsVRFk2BgUvII8kRLw
 ++Fortnite+Release-11.31-CL-10805056-IOS = 92shIO5cP-cnj7GxgkyDlHDSzl4cRQ
 ++Fortnite+Release-11.40-CL-11058555-IOS = CnG4zzfg4HiVI4uUgUWkw1zTFbybEQ
 ++Fortnite+Release-11.40-CL-11109625-IOS = CTZYmD1b8k3NJAPo3kmfRs-4CPOcUQ
@@ -883,6 +1022,7 @@ IOS (https://cloudflare.epicgamescdn.com/Builds/Fortnite/Content/CloudDir/{idman
 ++Fortnite+Release-35.00-CL-41975848-IOS = 4D6s8LAzAae_nQB1Qke5vscw6ZUh3w
 ++Fortnite+Release-35.00-CL-42225001-IOS = LgBXNE36dW97s3MAg0m0cMndOAGg6w
 ++Fortnite+Release-35.10-CL-42517454-IOS = iOOWOQN4xi5qN2chGkGYFDLHGSooQA
+++Fortnite+Release-35.20-CL-42911808-IOS = r5Z1-xb_AX4WE09XZUiCXw0QXbj3xA
 
 MAC
 ++Fortnite+Release-13.40-CL-14190742-Mac = fasLpViqfDZX_Ej2QEeeHyHYCqgKSw
