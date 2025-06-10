@@ -493,3 +493,8 @@ CHAPTER 6 SEASON 3 "Rebirth" [May 2, 2025]
 ++Fortnite+Release-35.20-CL-42911808-Windows [May 29, 2025]
 ++Fortnite+Release-35.20-CL-42911808-Android [May 29, 2025]
 ++Fortnite+Release-35.20-CL-42911808-IOS [May 29, 2025]
+
+CHAPTER 6 SEASON 4 "" [June 07, 2025]
+++Fortnite+Release-36.00-CL-43214806-Windows [June 07, 2025]
+++Fortnite+Release-36.00-CL-43214806-Android [June 07, 2025]
+++Fortnite+Release-36.00-CL-43214806-IOS [June 07, 2025]
