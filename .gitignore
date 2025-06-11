@@ -1,5 +1,6 @@
 Aes/*
-Manifests/.get-manifest/*
-Manifests/Manifest.md
-Manifests/Versions.txt
+Manifests/.get-manifest
+Manifests/.manifest-id
+Manifests/Pc/Windows/Content
+Manifests/Console
 Mobiles/*
