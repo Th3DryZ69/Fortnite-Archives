@@ -2,5 +2,6 @@ Aes/*
 Manifests/.get-manifest
 Manifests/.manifest-id
 Manifests/Pc/Windows/Content
+Manifests/Mobile/Android/Shipping
 Manifests/Console
 Mobiles/*
